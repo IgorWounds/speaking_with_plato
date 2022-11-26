@@ -87,11 +87,11 @@ $ pip install -U --no-cache-dir gdown --pre
 $ python src/app.py
 ```
 
-The first time you run the app, it will download the GPT-2 and DialoGPT models. This may take a few minutes depending on your internet connection. Make sure you have at least 7 GB of free space on your hard drive.
+The first time you run the app, it will download the GPT-2 and DialoGPT models. This may take a few minutes depending on your internet connection. Make sure you have at least 7 GB of free space.
 
 If you face issues with downloading the models, please download them manually from the following links and place them in their respective folders found inside the `models` folder and extract them:
-* [DialoGPT](https://drive.google.com/file/d/1QLEF2KVXKvfroAmqrNQK4Q6G8qFcgSmG/view?usp=sharing)
-* [GPT-2](https://drive.google.com/file/d/15aQCUMY_UAD3bikl1MARxi7j4dTNY4Ia/view?usp=sharing)
+* [DialoGPT](https://drive.google.com/file/d/1QLEF2KVXKvfroAmqrNQK4Q6G8qFcgSmG/view?usp=sharing) -> `models/small-dialouGPT/`
+* [GPT-2](https://drive.google.com/file/d/15aQCUMY_UAD3bikl1MARxi7j4dTNY4Ia/view?usp=sharing) -> `models/GPT-2/`
 
 ## Usage
 
