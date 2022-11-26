@@ -1,0 +1,168 @@
+Plato's Alcibiades I
+Top sentence with the highest polarity score: to take an instance: would he not say that they should wrestle with those against whom it is best to wrestle?
+Top sentence with the lowest polarity score: alcibiades: i rather think, socrates, that some honourable things are evil.
+Top sentence with the highest subjectivity score: but granting, if i must, that you have perfectly divined my purposes, why is your assistance necessary to the attainment of them?
+Top sentence with the lowest subjectivity score: have you not remarked their absence?
+
+Plato's Alcibiades II
+Top sentence with the highest polarity score: socrates: of the greatest of all things, as i believe.
+Top sentence with the lowest polarity score: socrates: he must be either sane or insane?
+Top sentence with the highest subjectivity score: socrates: you seem to be troubled and to cast your eyes on the ground, as though you were thinking about something.
+Top sentence with the lowest subjectivity score: socrates: are you going, alcibiades, to offer prayer to zeus?
+
+Plato's Apology
+Top sentence with the highest polarity score: and to you and to god i commit my cause, to be determined by you as is best for you and me.
+Top sentence with the lowest polarity score: i will not say of myself that i deserve any evil, or propose any penalty.
+Top sentence with the highest subjectivity score: i should be very sorry if meletus could bring so grave a charge against me.
+Top sentence with the lowest subjectivity score: no, by heaven!
+
+Plato's Charmides
+Top sentence with the highest polarity score: and suppose, i said, that i were asked by you what is the use or effect of medicine, which is this science of health, i should answer that medicine is of very great use in producing health, which, as you will admit, is an excellent effect.
+Top sentence with the lowest polarity score: i dare say that you have heard eminent physicians say to a patient who comes to them with bad eyes, that they cannot cure his eyes by themselves, but that if his eyes are to be cured, his head must be treated; and then again they say that to think of curing the head alone, and not the rest of the body also, is the height of folly.
+Top sentence with the highest subjectivity score: that, i replied, was not far from the truth.
+Top sentence with the lowest subjectivity score: you see, i replied, that here i am.
+
+Plato's Cratylus
+Top sentence with the highest polarity score: socrates: and therefore by the greatest desire, if the chain is to be the greatest?
+Top sentence with the lowest polarity score: for there is nothing worse than self-deception--when the deceiver is always at home and always with you--it is quite terrible, and therefore i ought often to retrace my steps and endeavour to 'look fore and aft,' in the words of the aforesaid homer.
+Top sentence with the highest subjectivity score: but if i am mistaken i shall be happy to hear and learn of cratylus, or of any one else.
+Top sentence with the lowest subjectivity score: hermogenes: suppose that we make socrates a party to the argument?
+
+Plato's Critias
+Top sentence with the highest polarity score: now the city in those days was arranged on this wise.
+Top sentence with the lowest polarity score: but remember, critias, that faint heart never yet raised a trophy; and therefore you must go and attack the argument like a man.
+Top sentence with the highest subjectivity score: but remember, critias, that faint heart never yet raised a trophy; and therefore you must go and attack the argument like a man.
+Top sentence with the lowest subjectivity score: and now having offered my prayer i deliver up the argument to critias, who is to speak next according to our agreement.
+
+Plato's Eryxias
+Top sentence with the highest polarity score: socrates: and he appears to you to be the richest who has goods of the greatest value?
+Top sentence with the lowest polarity score: eryxias: an evil.
+Top sentence with the highest subjectivity score: socrates: gladly, if that is your desire.
+Top sentence with the lowest subjectivity score: scene: the portico of a temple of zeus.
+
+Plato's Euthydemus
+Top sentence with the highest polarity score: the youth, overpowered by the question blushed, and in his perplexity looked at me for help; and i, knowing that he was disconcerted, said: take courage, cleinias, and answer like a man whichever you think; for my belief is that you will derive the greatest benefit from their questions.
+Top sentence with the lowest polarity score: yes, indeed, he said; and they speak evil of evil men.
+Top sentence with the highest subjectivity score: they heard me say this, but only despised me.
+Top sentence with the lowest subjectivity score: crito, cleinias, euthydemus, dionysodorus, ctesippus.
+
+Plato's Euthyphro
+Top sentence with the highest polarity score: if they give everything and we give nothing, that must be an affair of business in which we have very greatly the advantage of them.
+Top sentence with the lowest polarity score: socrates: and what sort of difference creates enmity and anger?
+Top sentence with the highest subjectivity score: but they are jealous of us all; and we must be brave and go at them.
+Top sentence with the lowest subjectivity score: scene: the porch of the king archon.
+
+Plato's Gorgias
+Top sentence with the highest polarity score: and our friend gorgias is one of the best, and the art in which he is a proficient is the noblest.
+Top sentence with the lowest polarity score: socrates: but does he do what he wills if he does what is evil?
+Top sentence with the highest subjectivity score: callicles: there is nothing like asking him, socrates; and indeed to answer questions is a part of his exhibition, for he was saying only just now, that any one in my house might put any question to him, and that he would answer.
+Top sentence with the lowest subjectivity score: scene: the house of callicles.
+
+Plato's Ion
+Top sentence with the highest polarity score: ion: no; the pilot will know best.
+Top sentence with the lowest polarity score: no one can fail to see that you speak of homer without any art or knowledge.
+Top sentence with the highest subjectivity score: socrates: i am glad to hear you say so, ion; i see that you will not refuse to acquaint me with them.
+Top sentence with the lowest subjectivity score: are you from your native city of ephesus?
+
+Plato's Laches
+Top sentence with the highest polarity score: are you not risking the greatest of your possessions?
+Top sentence with the lowest polarity score: socrates: and courage, my friend, is, as you say, a knowledge of the fearful and of the hopeful?
+Top sentence with the highest subjectivity score: they guess at the wishes of the person who asks them, and answer according to his, and not according to their own, opinion.
+Top sentence with the lowest subjectivity score: melesias, son of thucydides.
+
+Plato's Laws
+Top sentence with the highest polarity score: the stronger overcomes the weaker, as the athenians have overcome the ceans, or the syracusans the locrians, who are, perhaps, the best governed state in that part of the world.
+Top sentence with the lowest polarity score: and the cretans are said to have invented the tale of zeus and ganymede in order to justify their evil practices by the example of the god who was their lawgiver.
+Top sentence with the highest subjectivity score: that is a reputation worthy of the son of zeus.
+Top sentence with the lowest subjectivity score: book i. strangers, let me ask a question of you--was a god or a man the author of your laws?
+
+Plato's Lesser_hippias
+Top sentence with the highest polarity score: socrates: and being as you are the wisest and ablest of men in these matters of calculation, are you not also the best?
+Top sentence with the lowest polarity score: for i hate him like the gates of death who thinks one thing and says another.
+Top sentence with the highest subjectivity score: socrates: and is that your own opinion, hippias?
+Top sentence with the lowest subjectivity score: socrates: what an ornament, hippias, will the reputation of your wisdom be to the city of elis and to your parents!
+
+Plato's Lysis
+Top sentence with the highest polarity score: then we are to say that the greatest friendship is of opposites?
+Top sentence with the lowest polarity score: and disease is an evil?
+Top sentence with the highest subjectivity score: now is not that ridiculous?
+Top sentence with the lowest subjectivity score: hippothales, seeing me approach, asked whence i came and whither i was going.
+
+Plato's Menexenus
+Top sentence with the highest polarity score: socrates: very good.
+Top sentence with the lowest polarity score: remember our words, then, and whatever is your aim let virtue be the condition of the attainment of your aim, and know that without this all possessions and pursuits are dishonourable and evil.
+Top sentence with the highest subjectivity score: socrates: o menexenus!
+Top sentence with the lowest subjectivity score: socrates: whence come you, menexenus?
+
+Plato's Meno
+Top sentence with the highest polarity score: socrates: then i must do my best, for there is a prize to be won.
+Top sentence with the lowest polarity score: socrates: there are some who desire evil?
+Top sentence with the highest subjectivity score: what do you say to this answer?--figure is the only thing which always follows colour.
+Top sentence with the lowest subjectivity score: my dear meno.
+
+Plato's Parmenides
+Top sentence with the highest polarity score: i shall be very happy to do so.
+Top sentence with the lowest polarity score: impossible.
+Top sentence with the highest subjectivity score: impossible.
+Top sentence with the lowest subjectivity score: we had come from our home at clazomenae to athens, and met adeimantus and glaucon in the agora.
+
+Plato's Phaedo
+Top sentence with the highest polarity score: to be reminded of socrates is always the greatest delight to me, whether i speak myself or hear another speak of him.
+Top sentence with the lowest polarity score: but what will those who maintain the soul to be a harmony say of this presence of virtue and vice in the soul?--will they say that here is another harmony, and another discord, and that the virtuous soul is harmonized, and herself being a harmony has another harmony within her, and that the vicious soul is inharmonical and has no harmony within her?
+Top sentence with the highest subjectivity score: to be reminded of socrates is always the greatest delight to me, whether i speak myself or hear another speak of him.
+Top sentence with the lowest subjectivity score: scene: the prison of socrates.
+
+Plato's Phaedrus
+Top sentence with the highest polarity score: phaedrus: there i have you as you had me, and you must just speak 'as you best can.'
+Top sentence with the lowest polarity score: the worst of authors will say something which is to the point.
+Top sentence with the highest subjectivity score: phaedrus: indeed, you are pleased to be merry.
+Top sentence with the lowest subjectivity score: scene: under a plane-tree, by the banks of the ilissus.
+
+Plato's Philebus
+Top sentence with the highest polarity score: protarchus: i think that what socrates is now saying is excellent, philebus.
+Top sentence with the lowest polarity score: socrates: nor would pain, philebus, be perfectly evil.
+Top sentence with the highest subjectivity score: socrates: that you and i must now try to indicate some state and disposition of the soul, which has the property of making all men happy.
+Top sentence with the lowest subjectivity score: shall you and i sum up the two sides?
+
+Plato's Protagoras
+Top sentence with the highest polarity score: delightful, i said; but what is the news?
+Top sentence with the lowest polarity score: after a while the desire of self-preservation gathered them into cities; but when they were gathered together, having no art of government, they evil intreated one another, and were again in process of dispersion and destruction.
+Top sentence with the highest subjectivity score: callias, a wealthy athenian.
+Top sentence with the lowest subjectivity score: hippocrates, alcibiades and critias.
+
+Plato's Sophist
+Top sentence with the highest polarity score: stranger: or shall we say that both inhere in perfect being, but that it has no soul which contains them?
+Top sentence with the lowest polarity score: stranger: and in the soul there are two kinds of evil.
+Top sentence with the highest subjectivity score: stranger: i am far from objecting, theodorus, nor have i any difficulty in replying that by us they are regarded as three.
+Top sentence with the lowest subjectivity score: an eleatic stranger, whom theodorus and theaetetus bring with them.
+
+Plato's Statesman
+Top sentence with the highest polarity score: stranger: before we can expect to have a perfect description of the statesman we must define the nature of his office.
+Top sentence with the lowest polarity score: might not an idiot, so to speak, know that he is a pedestrian?
+Top sentence with the highest subjectivity score: theodorus: by ammon, the god of cyrene, socrates, that is a very fair hit; and shows that you have not forgotten your geometry.
+Top sentence with the lowest subjectivity score: socrates: sophist, statesman, philosopher!
+
+Plato's Symposium
+Top sentence with the highest polarity score: for to speak or to hear others speak of philosophy always gives me the greatest pleasure, to say nothing of the profit.
+Top sentence with the lowest polarity score: impossible: i said.
+Top sentence with the highest subjectivity score: impossible: i said.
+Top sentence with the lowest subjectivity score: phaedrus, pausanias, eryximachus, aristophanes, agathon, socrates, alcibiades, a troop of revellers.
+
+Plato's Theaetetus
+Top sentence with the highest polarity score: theodorus: theaetetus, socrates, is his name; but i rather think that the property disappeared in the hands of trustees; notwithstanding which he is wonderfully liberal.
+Top sentence with the lowest polarity score: socrates: then now let me ask the awful question, which is this:--can a man know and also not know that which he knows?
+Top sentence with the highest subjectivity score: euclid: have you only just arrived from the country, terpsion?
+Top sentence with the lowest subjectivity score: euclid and terpsion meet in front of euclid's house in megara; they enter the house, and the dialogue is read to them by a servant.
+
+Plato's The_republic
+Top sentence with the highest polarity score: glaucon and the rest of the company joined in my request, and thrasymachus, as any one might see, was in reality eager to speak; for he thought that he had an excellent answer, and would distinguish himself.
+Top sentence with the lowest polarity score: on what principle, then, shall we any longer choose justice rather than the worst injustice?
+Top sentence with the highest subjectivity score: there he is, said the youth, coming after you, if you will only wait.
+Top sentence with the lowest subjectivity score: polemarchus said to me: i perceive, socrates, that you and your companion are already on your way to the city.
+
+Plato's Timaeus
+Top sentence with the highest polarity score: it shall be the ancient city of athens, and we will suppose that the citizens whom you imagined, were our veritable ancestors, of whom the priest spoke; they will perfectly harmonize, and there will be no inconsistency in saying that the citizens of your republic are these ancient athenians.
+Top sentence with the lowest polarity score: and in the case of pain too in like manner the soul suffers much evil from the body.
+Top sentence with the highest subjectivity score: and thus people of your class are the only ones remaining who are fitted by nature and education to take part at once both in politics and philosophy.
+Top sentence with the lowest subjectivity score: socrates: one, two, three; but where, my dear timaeus, is the fourth of those who were yesterday my guests and are to be my entertainers to-day?
+
