@@ -18,7 +18,7 @@
 
 ## Introduction
 
-This repository contains the code for the article [Speaking with Plato - A Deep Learning Approach to Philosophy](dataspiral.blog/speaking-with-plato/).
+This repository contains the code for the article [Speaking with Plato - A Deep Learning Approach to Philosophy](https://dataspiral.blog/speaking-with-plato/).
 
 It features two deep learning models that are trained on Plato's works. The first one is a chatbot that can be used to have a conversation with Socrates. The second one is a text generator that can be used to generate new philosophical texts.
 
